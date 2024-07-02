@@ -21,9 +21,8 @@ React  / MUI
 git clone https://github.com/sanjaybaro/testify.git
 ```
 - Install Dependencies :
----
-npm install
 ```
+npm install
 ```
 ## Deployment link
 ```
