@@ -1,5 +1,12 @@
 # testify
 A React application with MUI components to monitor network requests via fetch and XHR, displaying request details and enabling filtering by type.
+## Deployment link
+```
+https://spiffy-shortbread-470568.netlify.app/
+```
+
+## Demonstartion video link:
+https://drive.google.com/file/d/1a4JuYFBaTD_Q0arenTrjzMdDAjyb4LRh/view?usp=sharing
 
 ## Features :-
 
@@ -24,10 +31,6 @@ git clone https://github.com/sanjaybaro/testify.git
 ```
 npm install
 ```
-## Deployment link
-```
-https://spiffy-shortbread-470568.netlify.app/
-```
 
 ### Screenshot of website :
 - GET fetch request
@@ -37,8 +40,7 @@ https://spiffy-shortbread-470568.netlify.app/
 - GET xhr timing
 - ![S4](https://github.com/sanjaybaro/testify/assets/123923491/940378cf-3568-438d-a15e-e9e4790c4f21)
 
-## Demonstartion video link:
-https://drive.google.com/file/d/1a4JuYFBaTD_Q0arenTrjzMdDAjyb4LRh/view?usp=sharing
+
 
 
 
